@@ -15,3 +15,5 @@ this is a change on newbranch
 ******************************
 
 and this is a change on master
+
+this is second change on master
