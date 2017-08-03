@@ -16,4 +16,11 @@ this is a change on newbranch
 
 and this is a change on master
 
+_______________
 this is second change on master
+
+
+new change on modifytest2 - combined
+
+_______________
+
